@@ -1,1 +1,6 @@
+*.JPEG
 data/
+*.jpg
+__pycache__/
+checkpoints/
+.vscode/
